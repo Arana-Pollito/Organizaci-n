@@ -5,5 +5,5 @@
 
 | Nombre Común | Nombre Científico | Reino | Clase | Categoría de conservación |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Araña pollito. | Euathlus condorito. | Animalia  | Arachnida  | En peligro crítico (CR)  | 
+| Araña pollito  | Euathlus condorito  | Animalia  | Arachnida  | En peligro crítico (CR)  | 
 
