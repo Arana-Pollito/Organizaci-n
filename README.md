@@ -28,9 +28,9 @@ Los **terafósidos** (**Theraphosidae**, del griego thera ‘animal salvaje, bes
 
 ### Base de datos para investigación 📖
 
-*
-*
-*
+* Ministerio de medio ambiente 
+* Journal of thermal biology
+* New world tarantulas
 *
 *
 *
