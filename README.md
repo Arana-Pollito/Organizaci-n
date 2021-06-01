@@ -26,7 +26,7 @@ Los **terafósidos** (**Theraphosidae**, del griego thera ‘animal salvaje, bes
 | Araña pollito  | Euathlus condorito  | Animalia  | Arachnida  | Theraphosidae  | Nativa  | En peligro crítico (CR)  |
 | Araña pollito  | Euathlus manicata  | Animalia  | Arachnida  | Theraphosidae  | Nativa  | Casi amenazada (NT)  | 
 
-<img src="img/araña.png" alt="ilustración delfín " width="500"  high="auto"/>
+<img src="img/araña.png" alt="Mano con Araña Pollito" width="500"  high="auto"/>
 
 ### Base de datos para investigación 📖
 
