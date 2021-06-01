@@ -32,10 +32,10 @@ Los **terafósidos** (**Theraphosidae**, del griego thera ‘animal salvaje, bes
 
 Las hembras adultas tienen una tonalidad marrón que predomina en todo su cuerpo. El abdomen es negro con setas grises y en la base un penacho rojizo muy característico. También es visible un parche de setas urticantes en la zona dorsal del abdomen. Los machos adultos presentan la misma coloración que las hembras, siendo el tono del cefalotórax mucho más brillante. Las patas de los machos son proporcionalmente más largas que en el caso de las hembras y el abdomen proporcionalmente más pequeño. En el caso de ejemplares juveniles, o subadultos, el dimorfismo sexual es prácticamente inexistente.
 
-<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a2.png" alt="Araña Pollito" width="200"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a2.png" alt="Araña Pollito" width="400"  high="auto"/>
 <img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a3.jpeg" alt="Araña Pollito" width="200"  high="auto"/>
 <img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a4.jpeg" alt="Araña Pollito" width="200"  high="auto"/>
-<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a5.jpeg" alt="Araña Pollito" width="500"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a5.jpeg" alt="Araña Pollito" width="200"  high="auto"/>
 
 **Tamaño**
 
@@ -45,7 +45,7 @@ El terafósido más grande puede llegar a pesar unos 90g. El tamaño de los tera
 
 Construye su madriguera bajo tierra, pero también puede ser encontrada bajo rocas o en oquedades naturales del terreno. Debido a que se distribuye a lo largo de diversos tipos de formaciones vegetacionales, es que puede estar asociada tanto Al matorral esclerófilo o terrenos cubiertos con herbáceas.
 
-<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a8.png" alt="MAPA" width="300"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a8.png" alt="MAPA" width="100"  high="auto"/>
 
 **Dieta:**
 
