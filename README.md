@@ -92,4 +92,8 @@ La hembra deposita entre 50 y 2000 huevos, dependiendo de la especie, en un saco
 * [Carbon recyclers: how ocean ecosystems help fight climate change](https://graphics.reuters.com/CLIMATE-CHANGE/SEAGRASS/xklvyyeqjvg/index.html)
 * [A scarce flavor](https://graphics.reuters.com/MCCORMICK-VANILLA/010092KE3B8/index.html)
 * [BATS and the ORIGIN of OUTBREAKS](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)
+* [ARAÑA DE RINCÓN: El huésped que reaparece en primavera](http://infografias.elmercurio.com/20191021-VCT-aranarincon/)
+* [Soaring Spiders](https://daisychung.com/portfolio/items/soaring-spiders/)
+* [El gran escarabajo chileno](http://infografias.elmercurio.com/20171223-VA-insectograndechileno/)
+* [Anatomy of a spider](https://i.pinimg.com/originals/96/f8/bf/96f8bfa0e1f2b0c5b3cc0b53881b94df.jpg)
 
