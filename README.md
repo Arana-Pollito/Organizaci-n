@@ -45,7 +45,6 @@ El terafósido más grande puede llegar a pesar unos 90g. El tamaño de los tera
 
 Construye su madriguera bajo tierra, pero también puede ser encontrada bajo rocas o en oquedades naturales del terreno. Debido a que se distribuye a lo largo de diversos tipos de formaciones vegetacionales, es que puede estar asociada tanto Al matorral esclerófilo o terrenos cubiertos con herbáceas.
 
-<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a8.png" alt="MAPA" width="100"  high="auto"/>
 
 **Dieta:**
 
