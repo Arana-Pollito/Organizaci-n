@@ -32,10 +32,10 @@ Los **terafósidos** (**Theraphosidae**, del griego thera ‘animal salvaje, bes
 
 Las hembras adultas tienen una tonalidad marrón que predomina en todo su cuerpo. El abdomen es negro con setas grises y en la base un penacho rojizo muy característico. También es visible un parche de setas urticantes en la zona dorsal del abdomen. Los machos adultos presentan la misma coloración que las hembras, siendo el tono del cefalotórax mucho más brillante. Las patas de los machos son proporcionalmente más largas que en el caso de las hembras y el abdomen proporcionalmente más pequeño. En el caso de ejemplares juveniles, o subadultos, el dimorfismo sexual es prácticamente inexistente.
 
-<img src="img/araña2.png" alt="Araña Pollito" width="200"  high="auto"/>
-<img src="img/araña3.jpeg" alt="Araña Pollito" width="200"  high="auto"/>
-<img src="img/araña4.jpeg" alt="Araña Pollito" width="200"  high="auto"/>
-<img src="img/araña5.jpeg" alt="Araña Pollito" width="500"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a2.png" alt="Araña Pollito" width="200"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a3.jpeg" alt="Araña Pollito" width="200"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a4.jpeg" alt="Araña Pollito" width="200"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a5.jpeg" alt="Araña Pollito" width="500"  high="auto"/>
 
 **Tamaño**
 
@@ -45,7 +45,7 @@ El terafósido más grande puede llegar a pesar unos 90g. El tamaño de los tera
 
 Construye su madriguera bajo tierra, pero también puede ser encontrada bajo rocas o en oquedades naturales del terreno. Debido a que se distribuye a lo largo de diversos tipos de formaciones vegetacionales, es que puede estar asociada tanto Al matorral esclerófilo o terrenos cubiertos con herbáceas.
 
-<img src="img/araña6.png" alt="MAPA" width="300"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a8.png" alt="MAPA" width="300"  high="auto"/>
 
 **Dieta:**
 
@@ -58,7 +58,7 @@ Tienen que apartar su esqueleto habitualmente para crecer, este es un proceso co
 
 La expectación de vida es larga. Muchas especies toman de 2 a 5 años para alcanzar la madurez, pero otras llegan hasta 10 años para avanzar a la etapa adulta. Cuando llegan a la edad adulta, los machos les tienen 1 o 1 año y medio de vida en busca de una hembra para fecundar. Es raro que una vez el macho madure, vuelva a mudar otra vez. También se ha conocido de las especies que viven en cautiverio, las cuales pueden llegar a los 15 o 20 años de vida, esto se debe a que en ese lugar no tienen depredadores.
 
-<img src="img/araña7.jpeg" alt="Araña Pollito" width="300"  high="auto"/>
+<img src="https://github.com/Arana-Pollito/Organizaci-n/blob/main/img/aran%CC%83a7.jpeg" alt="Araña Pollito" width="300"  high="auto"/>
 
 **Apareamiento**
 
