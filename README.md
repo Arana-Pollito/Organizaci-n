@@ -50,5 +50,4 @@ Los **terafósidos** (**Theraphosidae**, del griego thera ‘animal salvaje, bes
 * [Carbon recyclers: how ocean ecosystems help fight climate change](https://graphics.reuters.com/CLIMATE-CHANGE/SEAGRASS/xklvyyeqjvg/index.html)
 * [A scarce flavor](https://graphics.reuters.com/MCCORMICK-VANILLA/010092KE3B8/index.html)
 * [BATS and the ORIGIN of OUTBREAKS](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)
-*
 
